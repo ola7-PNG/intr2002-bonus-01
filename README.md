@@ -1,2 +1,2 @@
-# intr2002-bonus-01
-first Github project
+# First GitHub Project
+This is my first attempt to using Codespaces and Pages.
